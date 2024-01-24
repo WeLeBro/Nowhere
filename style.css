@@ -139,6 +139,10 @@ main img {
     border-radius: 25px;
 }
 
+#halo {
+    margin-bottom: .5em;
+}
+
 .linebreak {
     display: flex;
     margin-bottom: .6em;
